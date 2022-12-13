@@ -16,3 +16,7 @@ Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUINDO.md) que vai te explicar t
 ## Consciência social
 
 <strong>Se você tem meios financeiros para comprar o livro, pedimos para fazê-lo, comprar em qualquer site de sua escolha ajuda aqueles que escreveram a produzir mais conteúdo de qualidade.</strong>
+
+## Desfrute do nosso acervo de livros
+
+- [Arduino Descomplicado](https://github.com/The-Hydra-Labs/Livraria-do-hunter/blob/main/Ohara/(Arduino%20Descomplicado)%20Claudio%20Luis%20Vieira%20Oliveira_%20Humberto%20Augusto%20Piovesana%20Zanetti%20-%20Arduino%20Descomplicado_%20Como%20Elaborar%20Projetos%20de%20Eletr%C3%B4nica-%C3%89rica%20(2015).pdf)
