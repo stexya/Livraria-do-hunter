@@ -7,11 +7,11 @@
 
 ##  Um pequeno acervo de livros para todos
 
-A Livraria do Hunter disponibiliza conteúdo de dominio publico e propriedade intelectual de forma totalmente gratuita, por acreditar que o conhecimento e a educação devem ser acessíveis e livres a toda e qualquer pessoa.
+A Livraria do Hunter disponibiliza conteúdo de dominio publico e propriedade intelectual de forma totalmente gratuita, pois acreditamos que o conhecimento e a educação devem ser acessíveis e livres a toda e qualquer pessoa.
 
 ## Como contribuir?
 
-Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUTING.md) que vai te explicar tudo de como contribuir.
+Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUINDO.md) que vai te explicar tudo de como contribuir.
 
 ## Consciência social
 
