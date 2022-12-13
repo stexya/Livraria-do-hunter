@@ -23,7 +23,7 @@ Ao contribuir ou interagir com este projeto, evite usar qualquer idioma que não
 
  1. Edite o arquivo Readme.MD
  2. Adicione ```-[nome do livro](link para acessar)``` na seção de livros.
- 3. se você tem o arquivo do livro, mas não o link, suba primeiro na [OHARA]().
+ 3. se você tem o arquivo do livro, mas não o link, suba primeiro na [OHARA](https://github.com/The-Hydra-Labs/Livraria-do-hunter/tree/main/Ohara).
  
  
 ## Como adicionar meu perfil como contribuidor
