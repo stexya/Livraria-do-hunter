@@ -7,19 +7,21 @@
 
 ##  Um pequeno acervo de livros da area de TI
 
-A Livraria do Hunter disponibiliza conteúdo de dominio publico e propriedade intelectual de forma totalmente gratuita, pois acreditamos que o conhecimento e a educação devem ser acessíveis e livres a toda e qualquer pessoa.
+A Livraria do Hunter disponibiliza de forma gratuita: conteúdo de domínio público e intelectual, com conhecimento acessível somos livres para chegar aonde quisermos.
 
 ## Como contribuir?
 
-Por favor, leia o arquivo [CONTRIBUINDO](/CONTRIBUINDO.md) que vai te explicar tudo de como contribuir.
+O nosso arquivo [CONTRIBUINDO](/CONTRIBUINDO.md) te ajuda detalhadamente a como contribuir com a gente! ;)
 
 ## Consciência social
 
 <strong>Se você tem meios financeiros para comprar o livro, pedimos para fazê-lo, comprar em qualquer site de sua escolha ajuda aqueles que escreveram a produzir mais conteúdo de qualidade.</strong>
 
+Caso seja possível, pedimos que você compre o livro, assim você ajuda aqueles que escreveram e os inspiram a produzir mais ainda.
+
 ## Desfrute do nosso acervo de livros
 
-No momento são poucos livros, mas com a sua ajuda podemos ter uma grande biblioteca.
+No momento nossa biblioteca é limitada mas de grande ajuda. Contamos com seu apoio para que ela cresça mais e mais.
 
 ## Hardware
 
